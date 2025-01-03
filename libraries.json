@@ -1,0 +1,7 @@
+{
+    "yo": {
+        "version": "1.0",
+        "description": "Example library for testing",
+        "path": "libraries/yo.py"
+    }
+}
